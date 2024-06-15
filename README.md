@@ -15,7 +15,7 @@
 
 ##
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Riatla-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />       
   <img align="center" alt="Riatla-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="Riatla-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
